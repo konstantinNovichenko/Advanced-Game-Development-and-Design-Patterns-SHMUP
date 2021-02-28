@@ -1,5 +1,5 @@
 # Ultimate SHMUP++
-This project was created as a part of Advanced-Game-Development class at the College of Staten Island (CUNY) in November 2020
+This project was created as a part of "Advanced Game Development" class at the College of Staten Island (CUNY) in November 2020
 
 ## Authors
 - <a href="https://github.com/konstantinNovichenko">Konstantin Novichenko</a>
