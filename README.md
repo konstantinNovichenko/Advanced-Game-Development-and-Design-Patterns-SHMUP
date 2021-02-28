@@ -1,4 +1,4 @@
-# Advanced-Game-Development-and-Design-Patterns-SHMUP
+# Ultimate SHMUP++
 This project was created as a part of Advanced-Game-Development class at the College of Staten Island (CUNY) in November 2020
 
 ## Authors
